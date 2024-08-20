@@ -1,0 +1,15 @@
+/Users/smejia/RiderProjects/Training/Training/bin/Debug/net7.0/Training
+/Users/smejia/RiderProjects/Training/Training/bin/Debug/net7.0/Training.deps.json
+/Users/smejia/RiderProjects/Training/Training/bin/Debug/net7.0/Training.runtimeconfig.json
+/Users/smejia/RiderProjects/Training/Training/bin/Debug/net7.0/Training.dll
+/Users/smejia/RiderProjects/Training/Training/bin/Debug/net7.0/Training.pdb
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.csproj.AssemblyReference.cache
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.AssemblyInfoInputs.cache
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.AssemblyInfo.cs
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.csproj.CoreCompileInputs.cache
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.dll
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/refint/Training.dll
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.pdb
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/Training.genruntimeconfig.cache
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net7.0/ref/Training.dll

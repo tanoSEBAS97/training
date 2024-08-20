@@ -1,0 +1,4 @@
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net8.0/Training.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net8.0/Training.AssemblyInfoInputs.cache
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net8.0/Training.AssemblyInfo.cs
+/Users/smejia/RiderProjects/Training/Training/obj/Debug/net8.0/Training.csproj.CoreCompileInputs.cache

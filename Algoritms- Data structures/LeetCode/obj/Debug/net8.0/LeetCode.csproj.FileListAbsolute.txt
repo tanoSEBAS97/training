@@ -1,0 +1,29 @@
+/Users/smejia/RiderProjects/Training/LeetCode/bin/Debug/net8.0/LeetCode
+/Users/smejia/RiderProjects/Training/LeetCode/bin/Debug/net8.0/LeetCode.deps.json
+/Users/smejia/RiderProjects/Training/LeetCode/bin/Debug/net8.0/LeetCode.runtimeconfig.json
+/Users/smejia/RiderProjects/Training/LeetCode/bin/Debug/net8.0/LeetCode.dll
+/Users/smejia/RiderProjects/Training/LeetCode/bin/Debug/net8.0/LeetCode.pdb
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfoInputs.cache
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfo.cs
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/LeetCode.dll
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/refint/LeetCode.dll
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/LeetCode.pdb
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/LeetCode.genruntimeconfig.cache
+/Users/smejia/RiderProjects/Training/LeetCode/obj/Debug/net8.0/ref/LeetCode.dll
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/bin/Debug/net8.0/LeetCode
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/bin/Debug/net8.0/LeetCode.deps.json
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/bin/Debug/net8.0/LeetCode.runtimeconfig.json
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/bin/Debug/net8.0/LeetCode.dll
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/bin/Debug/net8.0/LeetCode.pdb
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfoInputs.cache
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.AssemblyInfo.cs
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.sourcelink.json
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.dll
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/refint/LeetCode.dll
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.pdb
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/LeetCode.genruntimeconfig.cache
+/Users/smejia/Documents/Sebastian- Personal training/training/training/Algoritms- Data structures/LeetCode/obj/Debug/net8.0/ref/LeetCode.dll
